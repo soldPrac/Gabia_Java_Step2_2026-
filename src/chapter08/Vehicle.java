@@ -1,0 +1,13 @@
+package chapter08;
+
+public class Vehicle {
+	private static final int price = 1000;
+	
+	public int vegiclePrice() {
+		return this.price;
+	}
+	
+	public void run() {
+		System.out.println("차량이 달립니다");
+	}
+}
