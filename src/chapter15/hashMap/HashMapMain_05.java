@@ -51,6 +51,5 @@ public class HashMapMain_05 {
 //			int addNewQuantity = scan.nextInt();
 //			inventory.put(updateProduct, addNewQuantity);
 		}
-		
 	}
 }
