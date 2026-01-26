@@ -8,5 +8,6 @@ public class Sol_main {
 		
 		sol1.solution(intarr);
 		System.out.println("git test");
+		System.out.println("branch test");
 	}
 }
