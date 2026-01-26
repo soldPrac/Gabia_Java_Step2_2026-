@@ -7,5 +7,6 @@ public class Sol_main {
 		int[] intarr = {1, 2, 3, 3, 3, 4};
 		
 		sol1.solution(intarr);
+		System.out.println("git test");
 	}
 }
